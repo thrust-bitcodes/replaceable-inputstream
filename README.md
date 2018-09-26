@@ -1,4 +1,5 @@
 replaceable-inputstream
+[![Build Status](https://travis-ci.org/thrust-bitcodes/replaceable-inputstream.svg?branch=master)](https://travis-ci.org/thrust-bitcodes/replaceable-inputstream) [![GitHub release](https://img.shields.io/github/release/thrust-bitcodes/replaceable-inputstream.svg)](https://github.com/thrust-bitcodes/replaceable-inputstream/releases)
 ===============
 
 replaceable-inputstream é um *bitcode* de processamento e transformação de stream da dados para [Thrust](https://github.com/Thrustjs/thrust).
