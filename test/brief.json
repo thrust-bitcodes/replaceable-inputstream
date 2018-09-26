@@ -1,0 +1,9 @@
+{
+  "name": "replaceable-inputstream-test",
+  "author": "Bruno Machado",
+  "dependencies": {
+    "bitcodes": [
+      "majesty"
+    ]
+  }
+}

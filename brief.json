@@ -1,0 +1,8 @@
+
+{
+    "name": "replaceable-inputstream",
+    "description": "Bitcode com implementação de um InputStream que permite realizar replaces",
+    "path": "dist",
+    "version": "0.1.0",
+    "author": "Bruno Machado"
+}
